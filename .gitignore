@@ -6,3 +6,4 @@ build
 sequencelogs
 sequence.jar
 TAGS
+.DS_Store
